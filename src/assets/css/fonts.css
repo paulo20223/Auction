@@ -1,0 +1,15 @@
+/*@font-face {*/
+/*  font-family: 'HexaframeThin';*/
+/*  font-weight: bold;*/
+/*  src:*/
+/*          local('Hexaframe Thin'),*/
+/*          url('~assets/fonts/HexaframeThin.ttf') format("truetype");*/
+/*}*/
+
+@font-face {
+  font-family: 'ModeratThin';
+  font-weight: bold;
+  src:
+          local('Moderat Thin'),
+          url('~assets/fonts/ModeratThin.ttf') format("truetype");
+}
